@@ -56,6 +56,12 @@ Para configurar a porta serial, selecione a porta desejada no componente `CbSeri
 2. Selecione a porta serial para leitura de dados em tempo real, se aplicável.
 3. Inicie o treinamento clicando no botão `Iniciar Treinamento`.
 4. Acompanhe os resultados do treinamento e validação nos gráficos exibidos na interface.
+   
+## Aquisição de Sinais
+
+Para ser feito a aquisição de sinais, foi utilizado o seguinte Hardware junto ao arduino para coletar os dados em uma frequência de 500Hz
+
+![Imagem do WhatsApp de 2024-07-05 à(s) 20 56 47_13014959](https://github.com/HenriqueDest/Rede_MLP/assets/104697173/ebf95b77-8cd7-4be5-b155-f41535dd28a1)
 
 ## Contribuições
 
