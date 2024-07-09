@@ -13,7 +13,7 @@ Este projeto implementa uma Rede Neural Multicamadas (MLP) para o reconhecimento
 
 ## Distribuição das Classes de Acordo com a Época de Treinamento
 <p align="center">
-  <img src="https://github.com/HenriqueDest/Rede_MLP/assets/104697173/186cdc8a-afa3-434b-be8c-b6fe4bd0348c" alt="2024-07-09 00-05-58 - Trim" width="1129" height="542">
+  <img src="https://github.com/HenriqueDest/Rede_MLP/assets/104697173/186cdc8a-afa3-434b-be8c-b6fe4bd0348c" alt="2024-07-09 00-05-58 - Trim" width="1129" height="500">
 </p>
 
 ## Estrutura do Projeto
