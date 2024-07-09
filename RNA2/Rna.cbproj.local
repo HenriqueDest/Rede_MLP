@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/08 15:06:50.000.591,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/05/08 15:06:50.000.648,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/03 15:12:50.000.979,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/03 15:12:50.000.547,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/03 15:35:48.000.971,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/03 15:35:48.000.924,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/23 18:59:32.000.066,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/23 18:59:33.000.971,=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/23 19:04:52.000.301,C:\Users\FAPESC-NB-PC\Desktop\RNA\URna.dfm=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/23 19:04:52.000.301,C:\Users\FAPESC-NB-PC\Desktop\RNA\URna.h=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/08/23 19:04:52.000.301,C:\Users\FAPESC-NB-PC\Desktop\RNA\URna.cpp=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/23 19:04:57.000.410,C:\Users\FAPESC-NB-PC\Desktop\RNA\RnaPCH1.h=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/23 19:05:02.000.839,C:\Users\FAPESC-NB-PC\Desktop\RNA\Rna.cbproj=C:\Users\FAPESC-NB-PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/09/09 19:37:41.000.527,C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA2\Rna.cbproj=C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA\Rna.cbproj</Transaction>
+    <Transaction>2020/09/09 19:37:51.000.200,C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA2\URna.dfm=C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA\URna.dfm</Transaction>
+    <Transaction>2020/09/09 19:37:51.000.200,C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA2\URna.h=C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA\URna.h</Transaction>
+    <Transaction>2020/09/09 19:37:51.000.200,C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA2\URna.cpp=C:\Desenvolvimento\Embarcadero\Disciplinas\Inteligência Artificial\RNA\URna.cpp</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
