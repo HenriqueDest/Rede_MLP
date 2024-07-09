@@ -67,7 +67,5 @@ Para ser feito a aquisição de sinais, foi utilizado o seguinte Hardware junto 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests com melhorias, correções de bugs ou novas funcionalidades.
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
