@@ -2,6 +2,20 @@
 
 Este projeto implementa uma Rede Neural Multicamadas (MLP) para o reconhecimento de sinais cardíacos. O objetivo é classificar os sinais cardíacos em diferentes categorias usando uma rede neural treinada com dados específicos.
 
+## Interface de Treinamento com Válidação Cruzada com Parada Antecipada
+![image](https://github.com/HenriqueDest/Rede_MLP/assets/104697173/329201d5-ccd0-4add-afb9-66ff60dd706d)
+
+## Classificação dos Sinais
+![image](https://github.com/HenriqueDest/Rede_MLP/assets/104697173/b96150c8-6f1a-4b0f-af8e-8e4391003104)
+
+## Aquisição e Classificação em Tempo Real dos Sinais
+![image](https://github.com/HenriqueDest/Rede_MLP/assets/104697173/b06285a3-2be3-4b3f-9b18-53509cabb649)
+
+## Distribuição das Classes de Acordo com a Época de Treinamento
+<p align="center">
+  <img src="https://github.com/HenriqueDest/Rede_MLP/assets/104697173/186cdc8a-afa3-434b-be8c-b6fe4bd0348c" alt="2024-07-09 00-05-58 - Trim" width="1129" height="542">
+</p>
+
 ## Estrutura do Projeto
 
 O projeto é estruturado da seguinte forma:
